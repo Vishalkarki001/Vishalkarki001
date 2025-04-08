@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a BCA student with a passion for building crea
 
 ## 🚧 Currently Working On
 
-I'm currently working as a <b> Full Stack Development Intern <b/>, where I'm gaining real-world experience by contributing to production-level applications using modern technologies across the stack.
+I'm currently working as a Full Stack Development Intern , where I'm gaining real-world experience by contributing to production-level applications using modern technologies across the stack.
 
 ---
 
