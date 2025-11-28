@@ -58,5 +58,3 @@ I love exploring new tech, optimizing workflows, and turning ideas into function
 </div>
 
 ---
-
-⭐️ *“Code with logic, design with purpose, and build with passion.”*
